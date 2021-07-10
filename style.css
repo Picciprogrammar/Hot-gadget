@@ -1,0 +1,11 @@
+.button-style{
+    border-radius: 6px;
+    padding: 10px 20px;
+    background-color: rgb(233, 34, 34);
+    border: none;
+}
+.frist-bg{
+    background-image: url("All-item/bg-1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
