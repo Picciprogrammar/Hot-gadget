@@ -1,11 +1,45 @@
 .button-style{
     border-radius: 6px;
     padding: 10px 20px;
-    background-color: rgb(233, 34, 34);
+    background-color: black;
     border: none;
+    color: white;
 }
 .frist-bg{
     background-image: url("All-item/bg-1.png");
     background-repeat: no-repeat;
     background-position: center;
 }
+.footer{
+    text-align: center;
+}
+.item-1{
+padding: 20px 30px;
+border: none;
+}
+
+.footer{
+    padding: 10px;
+}
+#last-item{
+    text-align: center;
+}
+.last-body{
+    box-shadow: 1px 4px 2px 2px rgb(180, 174, 174);
+    border-radius: 5px;
+    margin-top: 60px;
+   
+}
+.last-body img{
+    height: 175px;
+}
+.last-body-2{
+    box-shadow: 1px 4px 2px 2px rgb(180, 174, 174);
+    border-radius: 5px;
+    margin-top: 100px;
+}
+.last-body-2 img{
+height: 175px;
+
+}
+
